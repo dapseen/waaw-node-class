@@ -5,10 +5,11 @@ We were able to achieve some milestone, while we still have few things in our to
 
 
 @todo
--[x] Create records in mongo db database
--[x] List record from database
--[ ] Edit records from database
--[ ] Delete records from database
+
+- [x] Create records in mongo db database
+- [x] List record from database
+- [ ] Edit records from database
+- [ ] Delete records from database
 
 We followed @zellwk [tutorial to complete](https://zellwk.com/blog/crud-express-mongodb/) the first part.
 
